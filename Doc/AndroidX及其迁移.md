@@ -5,7 +5,5 @@
 + 解决了部分兼容性问题，如cameraX
 + 减少APP大小，不会再为了使用某个Api而引入整个的v4、v7库
 
-
-
 ##迁移
 + 官方文档:https://developer.android.google.cn/jetpack/androidx/migrate
